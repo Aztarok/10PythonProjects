@@ -13,3 +13,6 @@ Learned more data types like tuples and counters, and how to take inputs from fi
 
 Project 4:
 First time I used tkinter to make a gui. I also learned how to save, load, and save to existing files the current state of the notepad.
+
+Project 5:
+Found out how to use the requests library and installed it with pip. Was a fun exercise to get information about a webpage.
