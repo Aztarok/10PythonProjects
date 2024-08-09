@@ -22,3 +22,6 @@ Learned out to manipulate static json data. Also figured out how to convert the 
 
 Project 7:
 I found about the secrets import and that it is more secure than random for encryption. Plus I gained more practice with manipulating strings and adding dynamic updating based on the current string.
+
+Project 8:
+Figured out how to make a text analyser and do more work with strings. I had a call back to project 3 with getting the most common words but now I only printed the top 5. Also I made the output more human readable and better looking.
