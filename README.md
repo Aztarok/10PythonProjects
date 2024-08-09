@@ -25,3 +25,6 @@ I found about the secrets import and that it is more secure than random for encr
 
 Project 8:
 Figured out how to make a text analyser and do more work with strings. I had a call back to project 3 with getting the most common words but now I only printed the top 5. Also I made the output more human readable and better looking.
+
+Project 9:
+First time trying to play with Morse Code. I had to research more about it and how to convert punctuation to morse code. Then I had to reverse the dictionary and convert morse code back to text.
