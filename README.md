@@ -28,3 +28,6 @@ Figured out how to make a text analyser and do more work with strings. I had a c
 
 Project 9:
 First time trying to play with Morse Code. I had to research more about it and how to convert punctuation to morse code. Then I had to reverse the dictionary and convert morse code back to text.
+
+Project 10:
+Made a simple chatbot! Was fun to see how it works at a base level, for now I made a way to stop the chat. Plus I made it return a default message when the similarity was below 50%. I just have to add more messages but I can do that later this is just the start.
